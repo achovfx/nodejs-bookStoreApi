@@ -1,0 +1,79 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Erfan G",
+        "username": "achovfx",
+        "email": "achovfx@test.ir",
+        "crime": 0,
+        "role": "ADMIN"
+    }, {
+        "id": 2,
+        "name": "Ali G",
+        "username": "aligg",
+        "email": "aliGG@test.ir",
+        "crime": 0,
+        "role": "ADMIN"
+    }, {
+        "id": 3,
+        "name": "Abbas B",
+        "username": "ebi",
+        "email": "abbaassebi@bb.com",
+        "crime": 90000,
+        "role": "USER"
+    }, {
+        "id": 4,
+        "name": "arting",
+        "username": "artingvfxxx",
+        "email": "arting@gmail.com",
+        "crime": 0,
+        "role": "USER"
+    }],
+    "books": [{
+        "id": 1,
+        "title": "Golestan",
+        "author": "sadi",
+        "price": 240000,
+        "free": 1
+    }, {
+        "id": 3,
+        "title": "Masnavi",
+        "author": "sadi",
+        "price": 240000,
+        "free": 1
+    }, {
+        "id": 4,
+        "title": "3min in Resurrection",
+        "author": "sadi",
+        "price": 240000,
+        "free": 1
+    }, {
+        "id": 5,
+        "title": "PHP Book",
+        "author": "achovfx",
+        "price": 100000,
+        "free": 1
+    }, {
+        "id": 6,
+        "title": "NodeJS Book",
+        "author": "achovfx",
+        "price": 100000000
+    }, {
+        "id": "f6e3335e-5473-45da-ba10-ee900f038758",
+        "title": "Bishuri",
+        "author": "unknown",
+        "price": 99999,
+        "free": 1
+    }],
+    "rents": [
+    {
+        "id": 1,
+        "userID": 1,
+        "bookID": 4
+    },
+    {
+        "id": 2,
+        "userID": 2,
+        "bookID": 1
+    }
+]
+}
